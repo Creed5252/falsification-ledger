@@ -1,0 +1,13 @@
+observation_date,week_ending,btc_close_usd,power_law_floor_usd,power_law_trendline_usd,cushion_usd,cushion_pct,price_vs_trendline_pct,floor_drift_usd_per_day,catch_if_flat_estimate,rule_state,tracker,source
+2026-08-02,2026-08-02,62826.00,59385.79,141394.74,3440.21,5.79,-55.60,,2026-10-02,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-08-03,2026-08-02,63495.02,59493.58,141651.38,4001.44,6.73,-55.18,,2026-10-12,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-08-10,2026-08-09,64823.58,59872.11,142552.63,4951.47,8.27,-54.53,54.08,2026-11-02,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-08-17,2026-08-16,62825.94,60252.62,143458.63,2573.32,4.27,-56.21,54.36,2026-10-01,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-08-24,2026-08-23,77715.48,60635.15,144369.39,17080.33,28.17,-46.17,54.65,2027-05-18,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-08-31,2026-08-30,77628.27,61019.67,145284.94,16608.60,27.22,-46.57,54.93,2027-05-17,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-09-07,2026-09-06,80282.59,61406.22,146205.29,18876.37,30.74,-45.09,55.22,2027-06-22,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-09-14,2026-09-13,76808.16,61794.79,147130.46,15013.37,24.30,-47.80,55.51,2027-05-05,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-09-21,2026-09-20,81180.77,62185.40,148060.48,18995.37,30.55,-45.17,55.80,2027-07-04,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-09-28,2026-09-27,84457.58,62578.05,148995.36,21879.53,34.96,-43.32,56.09,2027-09-05,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-10-05,2026-10-04,86454.41,62972.75,149935.12,23481.66,37.29,-42.34,56.39,2027-10-03,above,newhedge,Newhedge free Latest Power Law snapshot
+2026-10-12,2026-10-11,83673.69,63369.51,150879.79,20304.18,32.04,-44.54,56.68,2027-08-25,above,newhedge,Newhedge free Latest Power Law snapshot

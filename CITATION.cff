@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Falsification Ledger and Power Law Floor Watch"
+type: dataset
+authors:
+  - family-names: Reed
+    given-names: Colin
+license: CC-BY-4.0
+repository-code: "https://github.com/Creed5252/falsification-ledger"
+url: "https://modernwealthmodel.com/bitcoin-price-model-falsification-ledger/"
+date-released: 2026-10-19
