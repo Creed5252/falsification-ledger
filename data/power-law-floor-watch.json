@@ -193,5 +193,20 @@
   "rule_state": "above",
   "tracker": "newhedge",
   "source": "Newhedge free Latest Power Law snapshot"
+ },
+ {
+  "observation_date": "2026-10-26",
+  "week_ending": "2026-10-25",
+  "btc_close_usd": "80060.24",
+  "power_law_floor_usd": "64169.24",
+  "power_law_trendline_usd": "152783.91",
+  "cushion_usd": "15891.00",
+  "cushion_pct": "24.76",
+  "price_vs_trendline_pct": "-47.60",
+  "floor_drift_usd_per_day": "57.27",
+  "catch_if_flat_estimate": "2027-07-04",
+  "rule_state": "above",
+  "tracker": "newhedge",
+  "source": "Newhedge free Latest Power Law snapshot"
  }
 ]
