@@ -16,3 +16,4 @@ observation_date,week_ending,btc_close_usd,power_law_floor_usd,power_law_trendli
 2026-11-02,2026-11-01,78295.85,64572.23,153743.41,13723.62,21.25,-49.07,57.57,2027-06-08,above,newhedge,Newhedge free Latest Power Law snapshot
 2026-11-09,2026-11-08,74643.95,64977.32,154707.90,9666.63,14.88,-51.75,57.87,2027-04-14,above,newhedge,Newhedge free Latest Power Law snapshot
 2026-11-16,2026-11-15,65309.08,65384.50,155677.39,-75.42,-0.12,-58.05,58.17,,below,newhedge,Newhedge free Latest Power Law snapshot
+2026-11-23,2026-11-22,61164.62,65793.80,156651.90,-4629.18,-7.04,-60.96,58.47,,below,newhedge,Newhedge free Latest Power Law snapshot
